@@ -1,0 +1,29 @@
+{
+  "name": "auto-swap-plume-mainnet",
+  "version": "1.0.0",
+  "description": "Automated swap bot for PLUME, useful for airdrop farming.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plume",
+    "airdrop",
+    "bot",
+    "swap",
+    "web3",
+    "pUSD",
+    "crypto",
+    "blockchain",
+    "automation"
+  ],
+  "author": "tihorsliced",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^17.2.0",
+    "web3": "^4.16.0"
+  },
+  "devDependencies": {}
+}
