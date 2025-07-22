@@ -32,7 +32,7 @@ You can change the random config as you wish
 ```bash
 PRIVATE_KEY=your_private_key
 WALLET_ADDRESS=your_wallet_address
-PLUME_RPC=https://your_rpc_url
+PLUME_RPC=https://phoenix-rpc.plumenetwork.xyz
 
 MIN_PLUME=5
 MAX_PLUME=15
