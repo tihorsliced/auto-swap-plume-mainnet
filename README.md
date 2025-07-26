@@ -1,4 +1,4 @@
-# Plume Swap Bot ( Plume Guardian )
+# UPDATE Plume Swap Bot ( Plume Guardian )
 
 A lightweight Node.js bot to automatically swap between **PLUME** and **pUSD** on the Plume chain. Great for automation or airdrop farming.
 
